@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: boot-annotation-consumer
+server:
+  port: 7002
